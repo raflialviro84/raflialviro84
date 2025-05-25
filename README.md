@@ -1,7 +1,7 @@
 Hi !👋 My name is Muhammad Rafli Alviro
 =========================================================================================================================================
 
-### Mobile App & Front End Web Developer
+### Mobile App & Full Stak Web Developer
 -----------------------
 
 A student of the Informatics Study Program, Faculty of Computer Science, National Development University (UPN) Veteran of East Java who has knowledge and experience in the digital world who specializes in Front End Web Developer, Network Security & Administrator, DevOps, Multi Platform App Developer (Flutter), and Android Developer (On Going). As well as experienced in leadership, coordination, public speaking, problem solving and critical thinking because of active organization on campus.
