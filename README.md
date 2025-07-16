@@ -1,10 +1,10 @@
 Hi !👋 My name is Muhammad Rafli Alviro
 =========================================================================================================================================
 
-### Mobile App & Full Stak Web Developer
+### Mobile Apps & Full Stack Web Developer
 -----------------------
 
-A student of the Informatics Study Program, Faculty of Computer Science, National Development University (UPN) Veteran of East Java who has knowledge and experience in the digital world who specializes in Front End Web Developer, Network Security & Administrator, DevOps, Multi Platform App Developer (Flutter), and Android Developer (On Going). As well as experienced in leadership, coordination, public speaking, problem solving and critical thinking because of active organization on campus.
+A student of the Informatics Study Program, Faculty of Computer Science, National Development University (UPN) Veteran of East Java who has knowledge and experience in the digital world who specializes in Front End Web Developer, Back-End Web Developer, Full Stack Web Developer, Network Security & Administrator, DevOps, Multi Platform App Developer (Flutter), Android Developer, and IT Consultant. As well as experienced in leadership, coordination, public speaking, problem solving and critical thinking because of active organization on campus.
 
 * 🌍  I'm based in Surabaya, Indonesia
 * 🖥️  See my portfolio at [Rafli Alviro Portofolio](https://github.com/raflialviro84?tab=repositories)
